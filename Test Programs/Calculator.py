@@ -4,6 +4,7 @@ Created on: 1/10/2023
 Edited 1: 17/11/2024
 Made by: Cassandra King 
 """
+# find a way to include more than 2 numbers in the calculation
 
 menu = '(+)Addition \n(-)Subtraction \n(x)Multiplication \n(/)Division'
 

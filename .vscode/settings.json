@@ -1,0 +1,10 @@
+{
+    "workbench.colorTheme": "GitHub Dark Dimmed",
+    "workbench.editor.decorations.colors": true,
+    "editor.autoClosingOvertype": "always",
+    "editor.autoClosingDelete": "always",
+    "editor.autoClosingComments": "always",
+    "editor.autoClosingBrackets": "always",
+    "editor.find.autoFindInSelection": "multiline",
+    "editor.cursorStyle": "line"
+}

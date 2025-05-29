@@ -8,7 +8,8 @@ Display players HP levels at 85p, player can take hits and heal.
 Players HP can not go past max and once HP is 0 the player is dead
 
 """
-
+# Add warning messages for when the player is at low HP
+# Add Death saves once in the negatives 
 Menu = ["(D)amage","(H)eal", "(R)est"]
 MAX_HP = 85
 

@@ -1,0 +1,14 @@
+body {
+  background-color: antiquewhite;
+}
+h1 {
+  color: powderblue;
+  padding: 10px;
+  margin-left: 110px;
+}
+p {
+  color: palevioletred;
+  background-color: lightgrey;
+  padding: 30px;
+  margin: 50px;
+}

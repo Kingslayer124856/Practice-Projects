@@ -6,21 +6,20 @@
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <h1>Working on combining python form and HTML</h1>
-    <p>body body body body</p>
-    <div class= "contact-container">
-        <form action="" class="contact-left">
+      <div class= "contact-container">
+        <form action="https://api.web3forms.com/submit" method="POST" class="contact-left">
             <div class="contact-left-title">
                 <h2>Contact Us</h2>
                 <hr>
             </div>
+            <input type="hidden" name="access_key" value="152f4381-8dbe-43b0-8f96-6f07a25ce25d">
             <input type="text" name="name" placeholder="Your Name" class="contact-inputs" required>
             <input type="email" name="email" placeholder="Your Email" class="contact-inputs" required>
             <textarea name="message" placeholder="Your Message" class="contact-inputs" required></textarea>
             <button type="submit" class="contact-button">Send Message <img src="assests/arrow_icon.png" alt=""></button>
         </form>
-        <div class="contact-left">
-           
+        <div class="contact-right">
+           <img src="assests/right_img.png" alt="Contact Image" class="contact-image">
 
     </div>
 </body>
